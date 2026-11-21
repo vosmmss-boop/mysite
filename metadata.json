@@ -1,0 +1,6 @@
+{
+  "name": "Amit Joshi Portal",
+  "description": "Amit Joshi Portal — Architecting the Digital Evolution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
